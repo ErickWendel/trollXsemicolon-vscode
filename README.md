@@ -14,4 +14,4 @@
 ### Motivação
 - [http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html](http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html)
  
-<img src="/resources/trollface.jpg" width="400" height="400"/>
+<img src="/resources/trollface.jpg" width="300" height="300"/>
