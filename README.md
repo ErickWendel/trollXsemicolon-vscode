@@ -9,3 +9,9 @@
 
 ### Author
 - [erickwendel](erickwendel.com.br)
+
+
+### Motivação
+- [http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html](http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html)
+
+[coisa-mais-malvada-que-eu-podia-imaginar]: /resources/coisa-mais-malvada-que-eu-podia-imaginar ":P"
