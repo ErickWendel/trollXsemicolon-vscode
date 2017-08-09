@@ -1,7 +1,6 @@
 import { window, StatusBarAlignment, StatusBarItem, Selection } from 'vscode';
 import * as vscode from 'vscode';
-export default class ReplaceSemiColon {
-    // private _statusBarItem: StatusBarItem;
+export default class ReplaceSemiColon { 
     private SEMICOLON_OF_DEATH = ';';
     private FIND_STR = ';'
 
@@ -56,6 +55,6 @@ export default class ReplaceSemiColon {
     }
 
     public dispose() {
-        // this._statusBarItem.dispose()
+        
     }
 }

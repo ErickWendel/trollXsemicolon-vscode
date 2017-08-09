@@ -1,9 +1,7 @@
 'use strict';
 // The module 'vscode' contains the VS Code extensibility API
 // Import the module and reference it with the alias vscode in your code below
-import * as vscode from 'vscode';
-import WordCounter from './util/WordCount';
-import WordCounterController from './util/WordCountController';
+import * as vscode from 'vscode'; 
 import ReplaceSemiColon from './util/ReplaceSemiColon';
 import ReplaceSemiColonController from './util/ReplaceSemiColonController';
 import {
@@ -17,12 +15,9 @@ import {
 export function activate(context: vscode.ExtensionContext) {
     const replaceSemiColon = new ReplaceSemiColon()
     const replaceSemiColonController = new ReplaceSemiColonController(replaceSemiColon)
-    // let disposable = vscode.commands.registerCommand('extension.sayHello', () => {
-        
-    // }); 
+    
     context.subscriptions.push(replaceSemiColonController);
-    context.subscriptions.push(replaceSemiColon);
-    // context.subscriptions.push(disposable);
+    context.subscriptions.push(replaceSemiColon); 
 }
 
 // this method is called when your extension is deactivated
