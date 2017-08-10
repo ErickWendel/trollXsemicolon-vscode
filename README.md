@@ -6,6 +6,9 @@
 
 ### Features
 - Substitui todos os ponto e vírgula (`;`) pelo [greek question mark](http://graphemica.com/%CD%BE), caractere similar ao nosso ponto e virgula que `não é reconhecido` pelos nossos editores :D
+### Demo
+![](https://raw.githubusercontent.com/ErickWendel/trollXtension-vscode/master/resources/esse2.gif)
+
 
 ### Linguagens Suportadas
 - C#
