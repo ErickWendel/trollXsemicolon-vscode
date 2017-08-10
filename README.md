@@ -26,5 +26,5 @@
 <img src="https://raw.githubusercontent.com/ErickWendel/trollXtension-vscode/master/resources/trollface.jpg" width="300" height="300"/>
 
 
-#Marketplace
+### Marketplace
  - [https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon](https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon)
