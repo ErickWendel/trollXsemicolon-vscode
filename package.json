@@ -16,7 +16,7 @@
         "onLanguage:javascript"
     ],
     "main": "./out/src/extension",
-    "contributes": {
+    "contributes": { 
         "commands": [
             {
                 "command": "extension.sayHello",
