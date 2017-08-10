@@ -12,8 +12,10 @@
     ],
     "icon": "resources/greek-mark-ico.jpg",
     "activationEvents": [
-        "onCommand:extension.sayHello",
-        "onLanguage:javascript"
+        "onLanguage:csharp",
+        "onLanguage:javascript",
+        "onLanguage:java",
+        "onLanguage:c"
     ],
     "main": "./out/src/extension",
     "contributes": { 
