@@ -1,7 +1,7 @@
 {
     "name": "troll-x-semicolon",
     "displayName": "trollXsemicolon",
-    "description": "",
+    "description": "Substitui todos os ponto e vírgula (`;`) pelo ponto de interrogação grego, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D",
     "version": "0.1.0",
     "publisher": "eriickwendel",
     "engines": {
