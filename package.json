@@ -1,16 +1,16 @@
 {
-    "name": "wordcount",
-    "displayName": "wordCount",
+    "name": "troll-x-semicolon",
+    "displayName": "trollXsemicolon",
     "description": "",
     "version": "0.0.1",
-    "publisher": "erickwendel",
+    "publisher": "eriickwendel",
     "engines": {
         "vscode": "^1.14.0"
     },
     "categories": [
         "Other"
     ],
-    "icon": "https://raw.githubusercontent.com/ErickWendel/trollXtension-vscode/master/resources/greek-mark-ico.jpg",
+    "icon": "resources/greek-mark-ico.jpg",
     "activationEvents": [
         "onCommand:extension.sayHello",
         "onLanguage:javascript"
@@ -18,10 +18,7 @@
     "main": "./out/src/extension",
     "contributes": { 
         "commands": [
-            {
-                "command": "extension.sayHello",
-                "title": "Hello World"
-            }
+             
         ]
     },
     "scripts": {
