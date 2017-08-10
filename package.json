@@ -10,7 +10,7 @@
     "categories": [
         "Other"
     ],
-  
+    "icon": "https://s-media-cache-ak0.pinimg.com/originals/a3/cc/a6/a3cca672a3dadcb2e082ca6a2866d693.jpg",
     "activationEvents": [
         "onCommand:extension.sayHello",
         "onLanguage:javascript"
