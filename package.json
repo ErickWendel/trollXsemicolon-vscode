@@ -2,7 +2,7 @@
     "name": "troll-x-semicolon",
     "displayName": "trollXsemicolon",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "eriickwendel",
     "engines": {
         "vscode": "^1.14.0"
@@ -18,10 +18,8 @@
         "onLanguage:c"
     ],
     "main": "./out/src/extension",
-    "contributes": { 
-        "commands": [
-             
-        ]
+    "contributes": {
+        "commands": []
     },
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
