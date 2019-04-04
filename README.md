@@ -1,16 +1,19 @@
 ## TrollXtension
 
-### Uma extensão da zoeira!
+### An extension created to prank your friends !
 
-- Quando o amiguinho esquecer a máquina desbloqueada ao seu lado, instale a trollXsemicolon que substituirá todos os ponto e virgulas pelo `greek question mark` 
-
+- When your friend left his PC unlocked on your side, install the trollXsemicollon that will replace all semicolons by the `greek question mark`.
+ 
 ### Features
-- Substitui todos os ponto e vírgula (`;`) pelo [greek question mark](http://graphemica.com/%CD%BE), caractere similar ao nosso ponto e virgula que `não é reconhecido` pelos nossos editores :D
+
+- It replaces all semicolons (`;`) by the [greek question mark](http://graphemica.com/%CD%BE). This character is idential to the semicolon and it isn't recognized by our editors :D
+
+
 ### Demo
 ![](https://raw.githubusercontent.com/ErickWendel/trollXtension-vscode/master/resources/esse2.gif)
 
 
-### Linguagens Suportadas
+### Supported Languages
 - C#
 - Java
 - Javascript
@@ -20,7 +23,7 @@
 - [erickwendel](http://erickwendel.com.br)
 
 
-### Motivação
+### Motivation
 - [http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html](http://www.ahnegao.com.br/2014/11/maldade-terrivel-e-diabolica-da-semana.html)
  
 <img src="https://raw.githubusercontent.com/ErickWendel/trollXtension-vscode/master/resources/trollface.jpg" width="300" height="300"/>
