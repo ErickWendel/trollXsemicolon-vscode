@@ -20,7 +20,7 @@
 - C
 
 ### Author
-- [erickwendel](http://erickwendel.com.br)
+- [erickwendel](https://erickwendel.com)
 
 
 ### Motivation
